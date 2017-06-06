@@ -1,4 +1,3 @@
-app-editors/atom-bin 1.10.2: A hackable text editor for the 21st Century. - Binary package
 dev-db/sqlmap 0.9_p20160517: Automatic SQL injection and database takeover tool
 dev-ruby/terminal-table 1.4.5-r1: Simple, feature rich ascii table generation library
 net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
